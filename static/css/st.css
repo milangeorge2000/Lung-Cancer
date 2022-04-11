@@ -1,0 +1,54 @@
+
+
+.container{
+    margin: 50px auto;
+    width:50%;
+    padding-left: 50%;
+}
+
+.text{
+    text-align:justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.banner-card img{
+    max-width: 100%;
+    height:auto;
+
+}
+.banner-text{
+ position:absolute;
+top:10px;
+ padding:10px;
+}
+.banner-text h1{
+    font-size: 26px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.images{
+    float:right;
+    padding: 0 10px 0 0;
+    margin-left: 15px;
+
+}
+.text2{
+    text-align:justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.cls1{
+    margin: 50px auto;
+    width:50%;
+    padding-right: 50%;
+}
+.cls2{
+    float:left;
+    padding: 0 230px 0 0;
+    margin-left:20px;
+
+}
+.cls3{
+    text-align: center;
+    color:rgba(2, 5, 34, 0.664);
+}
